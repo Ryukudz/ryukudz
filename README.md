@@ -1,2 +1,2 @@
 ![Header](./background.jpg)
-<h4 align="center">Bug bounty hunter 🥷 i develop simple tools that can automate tasks for me 🪄 to save time ⏳</h4>
+<h4 align="center">As I continue my work and actively search for vulnerabilities, I plan to develop custom tools to automate the tasks that I see myself frequently perform manually.And I will be sharing these tools here!</h4>
